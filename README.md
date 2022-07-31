@@ -8,7 +8,7 @@ Mapping odorant sensitivities reveals a sparse but structured representation of 
 
 Shawn D. Burton1, Audrey Brown1, Thomas P. Eiting1, Isaac A. Youngstrom1, Thomas C. Rust1, Michael Schmuker2, Matt Wachowiak1
 
-https://www.biorxiv.org/content/10.1101/2022.05.11.491539v2
+https://elifesciences.org/articles/80470
 
 See 'odormapping_datasets_description_sharing' for more info.
 
