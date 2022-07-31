@@ -10,7 +10,7 @@ Shawn D. Burton1, Audrey Brown1, Thomas P. Eiting1, Isaac A. Youngstrom1, Thomas
 
 https://elifesciences.org/articles/80470
 
-See Materials and Methods of above manuscript for details of data collection and pre-processing pipeline. Description of .mat file is below:
+See Materials and Methods of above paper for details of data collection and pre-processing pipeline. Description of .mat file is below:
 
 ‘odormappingdata_simple_05_22.mat’ file. 
 Variables:
